@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Unit 12 Homework Assignment",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katelynmanuel/bamazon.git"
+  },
+  "author": "katelynmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katelynmanuel/bamazon/issues"
+  },
+  "homepage": "https://github.com/katelynmanuel/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0",
+    "require": "^2.4.20"
+  }
+}
